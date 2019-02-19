@@ -1,0 +1,9 @@
+train:
+distorted_images/I22_01_1.bmp 5.815790 0.196420
+distorted_images/i22_21_4.bmp 3.564100 0.107540
+distorted_images/i15_10_5.bmp 1.866670 0.080740
+
+test:
+distorted_images/I16_01_1.bmp 5.615380 0.106440
+distorted_images/i16_03_3.bmp 3.692310 0.089950
+distorted_images/i16_23_5.bmp 1.526320 0.081000
