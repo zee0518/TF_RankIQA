@@ -1,2 +1,0 @@
-
-## RankIQA base on tensorflow
